@@ -1,0 +1,2 @@
+# SPRESENSE_LINE_test
+PIRセンサーの割込みでSPRESENSEとESP8266でLINEへメッセージを送信するテスト(DeepSleep対応版)
